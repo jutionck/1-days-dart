@@ -4,16 +4,23 @@
 
 ### Table Of Content
 
-| No | Topic | Link |
-| --- | --- |--|
-| 1 | Variable |  |
-| 2 | String | |
-| 3 | Number | |
-| 4 | List | |
-| 5 | Map | |
-| 6 | Operator | |
-| 7 | Method | |
-| 8 | Control Flow | |
-| 9 | Looping | |
-| 10 | Class and Object | |
-| 11 | Synchronous and Asynchronous | |
+| No | Topic |
+| --- | --- |
+| 1 | Variable And Data Type |
+| 2 | String |
+| 3 | Number |
+| 4 | List |
+| 5 | Set |
+| 6 | Map |
+| 7 | Operator |
+| 8 | Condition |
+| 9 | Looping |
+| 10 | Method |
+| 11 | HOF |
+| 12 | Anonymous Function |
+| 13 | Class and Object |
+| 14 | Class Constructor |
+| 15 | Class Getter And Setter |
+| 16 | Class Inheritance |
+| 17 | Synchronous Asynchronous |
+| 18 | Try Catch |
